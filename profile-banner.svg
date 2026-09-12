@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Jensen (Liuyu) Xiong</title>
+  <desc id="desc">Financial data, quantitative research, thoughtful implementation. Decorative geometric data motif; not a performance chart.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B182B"/>
+      <stop offset="1" stop-color="#172F46"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5FE1CF"/>
+      <stop offset="1" stop-color="#75B9F5"/>
+    </linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#80A7BF" opacity="0.17"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#background)"/>
+  <rect x="812" y="25" width="358" height="250" fill="url(#grid)"/>
+  <rect x="52" y="49" width="42" height="4" rx="2" fill="url(#accent)"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="52" y="88" font-size="15" font-weight="700" letter-spacing="3.1" fill="#70DACE">FINANCE × DATA × RESEARCH</text>
+    <text x="49" y="152" font-size="53" font-weight="700" letter-spacing="-1.5" fill="#F4F8FC">Jensen (Liuyu) Xiong</text>
+    <text x="52" y="190" font-size="21" fill="#B8CBDC">Thoughtful analysis. Transparent evidence.</text>
+    <g font-size="13" font-weight="700" letter-spacing="1.4" fill="#CDE7EC">
+      <rect x="52" y="220" width="62" height="30" rx="7" fill="#1E394B" stroke="#355569"/>
+      <text x="66" y="240">CQF</text>
+      <rect x="124" y="220" width="64" height="30" rx="7" fill="#1E394B" stroke="#355569"/>
+      <text x="137" y="240">CMA</text>
+      <rect x="198" y="220" width="90" height="30" rx="7" fill="#1E394B" stroke="#355569"/>
+      <text x="211" y="240">PYTHON</text>
+      <rect x="298" y="220" width="139" height="30" rx="7" fill="#1E394B" stroke="#355569"/>
+      <text x="311" y="240">VIBE CODING</text>
+    </g>
+  </g>
+  <g fill="none" stroke-width="1.5">
+    <rect x="860" y="70" width="222" height="158" rx="12" stroke="#355B70"/>
+    <path d="M899 106 L974 151 L1044 106 M899 198 L974 151 L1044 198 M974 92 L974 213" stroke="#5AB9B9" opacity="0.6"/>
+    <path d="M883 243 H1110 M1110 243 V89" stroke="#36556C" stroke-dasharray="4 7"/>
+    <circle cx="974" cy="151" r="22" stroke="#74DECE"/>
+    <circle cx="974" cy="151" r="35" stroke="#366275"/>
+  </g>
+  <g fill="#77DACE">
+    <circle cx="899" cy="106" r="6"/>
+    <circle cx="1044" cy="106" r="6"/>
+    <circle cx="899" cy="198" r="6"/>
+    <circle cx="1044" cy="198" r="6"/>
+    <circle cx="974" cy="92" r="4"/>
+    <circle cx="974" cy="213" r="4"/>
+    <circle cx="974" cy="151" r="5" fill="#ECFCF7"/>
+  </g>
+</svg>
